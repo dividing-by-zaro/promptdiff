@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python run.py:*)",
+      "mcp__playwright__browser_navigate",
+      "Bash(uv venv:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
